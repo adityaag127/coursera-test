@@ -1,0 +1,38 @@
+body{
+	background-color: 	#800000;
+	font-family: 'Besley', serif;
+}
+#header-nav{
+	background-color: #f6b319;
+	border-radius: 0;
+	border: 0;
+	width: 100%;
+}
+#logo-img{
+	background: url("loga1.jpg") no-repeat;
+	width: 150px;
+	height: 150px;
+	margin: 10px 15px 10px 0;
+}
+.navbar-brand{
+	padding-top: 25px;
+}
+.navbar-brand h1{
+	font-family: 'Lora', serif;
+	color: #557c3e;
+	font-size: 1.5em;
+	text-transform: uppercase;
+	font-weight: bold;
+	text-shadow: 1px 1px 1px #222;
+	margin-top: 0;
+	margin-bottom: 0;
+	line-height: .75;
+}
+.navbar>.container{
+	justify-content: flex-start;
+}
+#navbarSupportedContent{
+	float: right;
+	margin-top: -150px;
+	font-size: 20px;
+}

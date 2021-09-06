@@ -1,0 +1,52 @@
+body{
+	font-family: Javanese Text;
+}
+#header-nav{
+	background-color: #696969;
+	border: 2px solid black;
+}
+h1{
+	color: black;
+	font-weight: bold;
+	font-family: Lucida Handwriting;
+}
+h2, h3{
+	color: black;
+	text-align: center;
+	font-weight: bold;
+}
+h2{
+	font-family: Imprint MT Shadow;
+}
+#peragraph{
+	border: 2px solid black;
+	width: 100%;
+	background-color: #696969;
+	font-family: Gabriola;
+	font-size: 23px;
+	font-weight: bold;
+}
+#buttonshow{
+	border: 2px solid black;
+
+}
+.nav-item{
+	width: 100%;
+}
+.nav-item a:hover{
+	background-color: #696969;
+}
+.navbar-toggler-icon{
+	background-image: url("data:image/svg+xml;..");
+}
+.navbar-dark .navbar-nav .nav-link.active,.navbar-dark .navbar-nav .nav-link{
+	color: black;
+	font-size: 20px;
+}
+#navbarSupportedContent{
+	background-color: white;
+	width: 100%;
+}
+#unordered{
+	height: 130px;
+}
