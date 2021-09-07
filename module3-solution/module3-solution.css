@@ -46,7 +46,13 @@ h2{
 #navbarSupportedContent{
 	background-color: white;
 	width: 100%;
+	margin-left: -11px;
+	margin-right: -14px;
+	margin-bottom: -9px;
 }
 #unordered{
 	height: 130px;
+}
+.nav-link{
+	text-align: center;
 }
