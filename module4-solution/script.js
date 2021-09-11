@@ -55,7 +55,7 @@ for (var name in names) {
   // in the loop. Otherwise, call helloSpeaker's 'speak' method with the current
   // name in the loop.
   if (((names[name].indexOf("j"))==0) || (names[name].indexOf("J")==0)) {
-    console.log("Goodbye"+" "+names[name]);
+    console.log("Good Bye"+" "+names[name]);
   }
   else {
     console.log("Hello"+" "+names[name])
